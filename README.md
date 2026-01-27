@@ -10,6 +10,8 @@ Proyecto por: levyspark2000
 * [Diseño](#diseño)
 * [Interfaces](#interfaces-uiux)
 * [Programación](#lenguajes)
+* [Pruebas e implementación](#pruebas-e-implementación)
+* [Agradecimientos](#agradecimientos)
 
 ---
 
