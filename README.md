@@ -90,16 +90,8 @@ Se describen los requisitos funcionales para el sitio dinamico del micro-negocio
 
 ##### Penpot
 
-[**Penpot**](https://help.penpot.app/user-guide/) es una herramienta de diseño basada en navegador,  
-basada en navegador, donde se puede crear atractivas  
-interfaces de usuario, componentes, variantes, tokens de diseño,  
-diseño css flex y de cuadricula.  
-
-##### Inkscape
-
-[**Inkscape**](https://es.wikipedia.org/wiki/Inkscape) es un editor de gráficos vectoriales libre y de  
-código abierto. Inkscape puede crear y editar diagramas, lineas, gráficos,  
-logotipos, e ilustraciones.  
+[**Quant-UX**](https://help.penpot.app/user-guide/) es una herramienta de investigación, usabilidad y creación de prototipos, 
+para probar rápidamente sus diseños y obtener información basada en datos.
 
 
 ---
