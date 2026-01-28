@@ -90,7 +90,7 @@ Se describen los requisitos funcionales para el sitio dinamico del micro-negocio
 
 ##### Penpot
 
-[**Quant-UX**](https://help.penpot.app/user-guide/) es una herramienta de investigación, usabilidad y creación de prototipos, 
+[**Quant-UX**](https://www.quant-ux.com/) es una herramienta de investigación, usabilidad y creación de prototipos, 
 para probar rápidamente sus diseños y obtener información basada en datos.
 
 
@@ -132,3 +132,4 @@ Puede visitar el sitio en [**Aguas Naturales "El amigo levi"**](#pruebas-e-imple
 ### Agradecimientos
 
 A Dios y mi cuyeyo [_I LOVE GEMINI I.A_](https://gemini.google.com/app?hl=es)
+
