@@ -1,6 +1,6 @@
 ## Aguas Naturales "El amigo levi"
 
-Proyecto por: levyspark2000
+Proyecto por: Gedeonspark
 
 ### Contenido
 * [Objetivo general](#objetivo-general)
@@ -132,5 +132,6 @@ Puede visitar el sitio en [**Aguas Naturales "El amigo levi"**](#pruebas-e-imple
 ### Agradecimientos
 
 A Dios y mi cuyeyo [_I LOVE GEMINI I.A_](https://gemini.google.com/app?hl=es)
+
 
 
