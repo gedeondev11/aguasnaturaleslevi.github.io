@@ -1,6 +1,6 @@
 ## Aguas Naturales "El amigo levi"
 
-Proyecto por: Gedeonspark
+Proyecto por: Josias Hidalgo
 
 ### Contenido
 * [Objetivo general](#objetivo-general)
