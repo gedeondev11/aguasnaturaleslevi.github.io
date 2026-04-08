@@ -88,10 +88,9 @@ Se describen los requisitos funcionales para el sitio dinamico del micro-negocio
 
 ### Diseño  
 
-##### Quant-UX
+##### Draw.io
 
-[**Quant-UX**](https://www.quant-ux.com/) es una herramienta de investigación, usabilidad y creación de prototipos, 
-para probar rápidamente sus diseños y obtener información basada en datos.
+[**Draw.io**](https://www.drawio.com/) Es una herramienta que se usa para diseñar diagramas, interfaces, tiene propositos multidisiplinarios, lo que lo hace una herramienta eficaz, sabiendola usar
 
 
 ---
@@ -126,7 +125,7 @@ proyecto, usandolo como columna base de todo.
 ### Pruebas e implementación
 
 #### **Hosting y Dominio**
-Gracias a [**InfinityFree**](http://infinityfree.com/) el proyecto tuvo un costo de (0$ MNX), para realizar pruebas y despliegue.
+Gracias a [**Wasmer.io**](http://infinityfree.com/) el proyecto tuvo un costo de (0$ MNX), para realizar pruebas y despliegue.
 Puede visitar el sitio en [**Aguas Naturales "El amigo levi"**](#pruebas-e-implementación)
 
 ### Agradecimientos
