@@ -108,7 +108,11 @@ Se describen los requisitos funcionales para el sitio dinamico del micro-negocio
 
 ### Programación
 
-#### Herramientas de programación
+#### Herramientas de desarrollo
+
+##### **Entornos**
+* **VS Code**
+* **XAMPP**
 
 ##### **Lenguajes**
 
@@ -125,12 +129,12 @@ proyecto, usandolo como columna base de todo.
 ### Pruebas e implementación
 
 #### **Hosting y Dominio**
-Gracias a [**Wasmer.io**](http://infinityfree.com/) el proyecto tuvo un costo de (0$ MNX), para realizar pruebas y despliegue.
-Puede visitar el sitio en [**Aguas Naturales "El amigo levi"**](aguaselamigolevi.wasmer.app)
+Gracias a [**Wasmer.io**](http://wasmer.io) el proyecto tuvo un costo de (0$ MXN), para realizar pruebas y despliegue.
+Puede visitar el sitio en [**Sitio disponible:** Aguas Naturales el amigo levi](https://aguaselamigolevi.wasmer.app/)
 
 ### Agradecimientos
 
-A Dios y mi cuyeyo [_I LOVE GEMINI I.A_](https://gemini.google.com/app?hl=es)
+Only GOD.
 
 
 
