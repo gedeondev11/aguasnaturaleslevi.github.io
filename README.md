@@ -126,7 +126,7 @@ proyecto, usandolo como columna base de todo.
 
 #### **Hosting y Dominio**
 Gracias a [**Wasmer.io**](http://infinityfree.com/) el proyecto tuvo un costo de (0$ MNX), para realizar pruebas y despliegue.
-Puede visitar el sitio en [**Aguas Naturales "El amigo levi"**](#pruebas-e-implementación)
+Puede visitar el sitio en [**Aguas Naturales "El amigo levi"**](aguaselamigolevi.wasmer.app)
 
 ### Agradecimientos
 
